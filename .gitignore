@@ -1,0 +1,7 @@
+/node_modules
+server/public/build /asset-manifest.json
+server/public/build /favicon.png
+server/public/build /robots.txt
+server/public/build /index.html
+server/public/build /manifest.json
+.env
